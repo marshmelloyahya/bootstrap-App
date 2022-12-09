@@ -15,13 +15,13 @@
 <img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot5.JPG"/>
 <br></br>
 <h4>Mobile Preview :</h4>
-<img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot6.JPG"/>
+<center><img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot6.JPG"/></center>
 <br></br>
-<img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot7.JPG"/>
+<center><img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot7.JPG"/></center>
 <br></br>
-<img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot8.JPG"/>
+<center><img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot8.JPG"/></center>
 <br></br>
-<img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot9.JPG"/>
+<center><img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot9.JPG"/></center>
 <br></br>
 <br></br>
 <h3>Developed By Yahya Ouali (c) 2022-23</h3>
