@@ -24,7 +24,7 @@
 <center><img src="https://raw.githubusercontent.com/marshmelloyahya/bootstrap-App/main/cloud/readmepics/screenshot9.JPG"/></center>
 <br></br>
  <p>
-        Check Here Live <a href="[/about/about_team.htm](https://mycryptoworldapp.netlify.app/)">DEMO</a> 
+        Check Here Live <a href="https://mycryptoworldapp.netlify.app/">DEMO</a> 
       </p>
    </body>
 
